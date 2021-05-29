@@ -1,0 +1,43 @@
+a:link{
+    color:cyan;
+}
+a:visited{
+    color:rgb(37, 241, 10)
+}
+body{
+    background-color: rgb(191, 245, 245);
+}
+h1{
+    color: rgb(255, 38, 0);
+    background-color: rgba(59, 53, 53, 0.925);
+}
+ol{
+    font-family: cursive;
+}
+ul{
+    font-family: cursive;
+}
+h2{
+    text-align: center;
+    color:rgb(255, 38, 0);
+    text-shadow: 2px 2px rgb(37, 241, 10);
+    font-family: sans-serif;
+}
+h3{
+    text-align: center; 
+}
+img{
+    border: 8px double #1505f7;
+}
+h4{
+    text-align: center; 
+    color: lawngreen;
+    text-shadow: 1px 1px black;
+    font-size: 22px;
+   
+}
+p{
+    text-align: center; 
+    font-size: 24px;
+    color:rgb(55, 0, 255)
+}
